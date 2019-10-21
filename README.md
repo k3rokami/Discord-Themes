@@ -11,7 +11,6 @@
 <font size="50"><b>Preview</b></font>
 <img src="https://github.com/honghongleong/Re-Zero-Theme/blob/master/Preview/screenshot1.png"/>
 <img src="https://github.com/honghongleong/Re-Zero-Theme/blob/master/Preview/screenshot2.png"/>
-
-Hope you enjoyed it!
-</li>ありがとうございました</li>
-</li>Have a good day!</li>
+Hope you enjoyed it!  
+ありがとうございました  
+Have a good day!
