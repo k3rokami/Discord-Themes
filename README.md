@@ -13,4 +13,4 @@
 <img src="https://github.com/honghongleong/Re-Zero-Theme/blob/master/Preview/screenshot2.png"/>
 Hope you enjoyed it!  
 ありがとうございました  
-Have a good day!
+Have a good day! ^_^
