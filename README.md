@@ -1,16 +1,26 @@
-# Re:Zero Discord Theme
-
-## How to download the theme:
+# How to apply the theme:
 
 + Step 1: Install BetterDiscord <a href="https://github.com/rauenzi/BetterDiscordApp/releases">Link</a></div>
 + Step 2: Download the files as zip
-+ Step 3: Extract it to C:\Users\*Your username*\AppData\Roaming\BetterDiscord\themes
++ Step 3: Extract it to %AppData%\BetterDiscord\themes
 + Step 4: Restart Discord (CMD+R or CTRL+R)
 + Step 5: Open Discord Settings>BetterDiscord>Themes>Enable the theme
 
-## Preview
+# Fubuki Theme
+<img src="https://raw.githubusercontent.com/honghongleong/Discord-Themes/master/Preview/FBK_main.png"/>
+<img src="https://raw.githubusercontent.com/honghongleong/Discord-Themes/master/Preview/FBK_02.png"/>
+<img src="https://raw.githubusercontent.com/honghongleong/Discord-Themes/master/Preview/FBK_01.png"/>
+
+## Credits
+***<a href="https://www.pixiv.net/en/artworks/89388503">Theme Background</a>***  
+***<a href="https://www.pixiv.net/en/artworks/90502924">Small User Popout</a>***  
+***<a href="https://www.pixiv.net/en/artworks/87059861">Big User Popout</a>***  
+***<a href="https://www.pixiv.net/en/artworks/86665211">Animated Home Icon</a>***  
+
+## Re-Zero Broken
 <img src="https://github.com/honghongleong/Re-Zero-Theme/blob/master/Preview/screenshot1.png"/>
 <img src="https://github.com/honghongleong/Re-Zero-Theme/blob/master/Preview/screenshot2.png"/>
-Hope you enjoyed it!  
+
+Thanks for stopping by!  
 ありがとうございました  
 Have a good day! ^_^
