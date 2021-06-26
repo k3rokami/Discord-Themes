@@ -6,7 +6,7 @@
 + Step 4: Restart Discord (CMD+R or CTRL+R)
 + Step 5: Open Discord Settings>BetterDiscord>Themes>Enable the theme
 
-# Fubuki Theme
+# Shirakami Fubuki Theme
 <img src="https://raw.githubusercontent.com/honghongleong/Discord-Themes/master/Preview/FBK_main.png"/>
 <img src="https://raw.githubusercontent.com/honghongleong/Discord-Themes/master/Preview/FBK_02.png"/>
 <img src="https://raw.githubusercontent.com/honghongleong/Discord-Themes/master/Preview/FBK_01.png"/>
