@@ -51,7 +51,6 @@
   --interactive-muted: #777;
   --background-primary: transparent;
   --background-secondary: rgb(0, 0, 0, 0.3);
-  --emoji-background: rgb(173, 133, 233, 0.3);
   --background-secondary-alt: transparent;
   --background-tertiary: transparent;
   --background-accent: #4f545c;
@@ -106,7 +105,7 @@
   top: 48px;
   pointer-events: none;
   -webkit-user-select: none;
-      -moz-user-select: none;
+     -moz-user-select: none;
           user-select: none;
 }
 #app-mount .botTagRegular_c89c9a {
@@ -291,7 +290,7 @@ textarea {
   transform: translate(var(--fb-overlay-blur)/-1, calc(var(--fb-overlay-blur) / -1));
   pointer-events: none;
   -webkit-user-select: none;
-      -moz-user-select: none;
+     -moz-user-select: none;
           user-select: none;
   z-index: -1;
 }
@@ -854,7 +853,7 @@ textarea {
   transform: translate(var(--fb-popout-blur)/-1, calc(var(--fb-popout-blur) / -1));
   pointer-events: none;
   -webkit-user-select: none;
-      -moz-user-select: none;
+     -moz-user-select: none;
           user-select: none;
   z-index: -1;
 }
@@ -1037,7 +1036,6 @@ textarea {
   box-shadow: none;
   background: transparent;
   animation: fadeIn 0.3s ease forwards;
-  
 }
 .emojiPicker_b65ce9 [class*=header] {
   box-shadow: none;
