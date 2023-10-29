@@ -84,6 +84,7 @@
   --deprecated-text-input-border-disabled: #202225;
   --deprecated-text-input-prefix: #dcddde;
   --text-link: var(--link-colour);
+  --noise-suppression: rgba(0, 0, 0, 0.6);
 }
 
 #app-mount .layer__2efaa {
@@ -1030,6 +1031,14 @@ textarea {
 }
 #app-mount .drawerSizingWrapper-27qFHb .category-3Xkx2x {
   color: var(--text-normal);
+}
+
+.noiseCancellationPopout__06ec4{
+  background: var(--noise-suppression);
+}
+
+.container__0810b{
+  background: var(--noise-suppression);
 }
 
 .emojiPicker_b65ce9 {
