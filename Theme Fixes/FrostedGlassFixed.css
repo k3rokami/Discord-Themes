@@ -93,7 +93,7 @@
   bottom: var(--window-padding);
   left: var(--window-padding);
   padding-top: 0;
-  overflow: hidden;
+  overflow: visible;
   border-radius: var(--window-roundness);
 }
 #app-mount .base__3e6af::before {
