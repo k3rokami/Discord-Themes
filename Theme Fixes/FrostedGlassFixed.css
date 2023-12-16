@@ -93,9 +93,10 @@
   bottom: var(--window-padding);
   left: var(--window-padding);
   padding-top: 0;
-  overflow: visible;
+  overflow: hidden;
   border-radius: var(--window-roundness);
 }
+
 #app-mount .base__3e6af::before {
   content: "";
   position: absolute;
@@ -185,6 +186,50 @@ textarea {
   font-family: var(--font, "gg sans"), "gg sans";
 }
 
+#app-mount .inputWrapper__934f5{
+  background: var(--background-secondary);
+  border-color: transparent;
+}
+
+.platform-win .typeWindows__5fa63{
+  margin-top: 0;
+  background: rgb(0, 0, 0, var(--middle-brightness));
+}
+
+.noiseCancellationPopout__06ec4{
+  background: var(--noise-suppression);
+}
+
+.container__0810b{
+  background: var(--noise-suppression);
+}
+
+#app-mount .callContainer_cbde45{
+  background-color: (0,0,0,var(--middle-brightness));
+  border-color: transparent;
+}
+
+/* #app-mount .root_a28985{
+  background: var(--background-secondary);
+}
+#app-mount .footer__89240{
+  background: var(--background-secondary);
+} */
+
+#app-mount .lookFilled__19298.colorPrimary__6ed40{
+  background: var(--background-secondary);
+  border-color: transparent;
+}
+
+#app-mount .inputDefault__80165{
+  background: var(--background-secondary);
+  border-color: transparent;
+}
+
+#app-mount .tabBarContainer__63f55{
+  background:transparent
+}
+
 #app-mount .tooltip__01384 {
   color: var(--text-normal);
   text-align: center;
@@ -240,7 +285,7 @@ textarea {
 #app-mount .container-2O1UgZ,
 #app-mount .container__8261a,
 #app-mount .popout__24e32,
-#app-mount .reactionTooltip-3IOBwg,
+#app-mount .reactionTooltip__9384a,
 #app-mount .picker__6dca7,
 #app-mount .container-3a5mk-,
 #app-mount .popout__83ef0,
@@ -270,7 +315,7 @@ textarea {
 #app-mount .container-2O1UgZ::before,
 #app-mount .container__8261a::before,
 #app-mount .popout__24e32::before,
-#app-mount .reactionTooltip-3IOBwg::before,
+#app-mount .reactionTooltip__9384a::before,
 #app-mount .picker__6dca7::before,
 #app-mount .container-3a5mk-::before,
 #app-mount .popout__83ef0::before,
